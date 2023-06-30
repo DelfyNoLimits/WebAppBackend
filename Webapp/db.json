@@ -1,0 +1,249 @@
+{
+  "saveUser": [
+    {
+      "id": 1,
+      "username": "this.username",
+      "name": "this.name",
+      "email": "this.email",
+      "password": "this.newPassword"
+    },
+    {
+      "username": "d",
+      "name": "d",
+      "email": "d",
+      "password": "d",
+      "id": 2
+    },
+    {
+      "username": "da",
+      "name": "d",
+      "email": "d",
+      "password": "d",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung S22",
+      "price": "2999.99",
+      "description": "Pantalla 6.8 Quad HD+ Amoled (120hz). Memoria interna 256GB. Memoria RAM 12GB. Cámara trasera cuadruple 108+12+10+10MP con IOS (estabilizacion optica). Cámara frontal 40MP",
+      "imageUrl": "https://realplaza.vtexassets.com/arquivos/ids/31152340-1200-auto?v=638060430332370000&width=1200&height=auto&aspect=true"
+    },
+    {
+      "id": "2",
+      "name": "fanxiang S500 Pro 1TB NVMe SSD M.2 PCIe Gen3x4 2280, caché SLC 3D NAND TLC, hasta 3500 MB/s",
+      "price": "145.39",
+      "description": "Sobre este artículo\nExcelente rendimiento: el SSD Fanxiang S500 Pro M.2 añade calcomanías de disipación de calor de grafeno para proporcionar un control eficaz de disipación de calor para SSD interna, mejora su rendimiento y vida útil, hasta 640 TBW (TeraBytes escritos)\nTransmisión de alta velocidad: acelera el rendimiento de lectura y escritura de discos duros de estado sólido a través de la tecnología inteligente de caché SLC, hasta 3500/3000 MB/s, mejorando en gran medida la velocidad de arranque, apertura de programas, carga de juegos, ahorro de archivos y transmisión, etc",
+      "imageUrl": "https://m.media-amazon.com/images/I/81N9hd2WF7L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Crucial MX500",
+      "price": "127.21",
+      "description": "Sobre este artículo\nCapacidad: 500 GB.\nFactor de forma: 2,5 pulgadas.\nInterfaz: SATA3.\nNAND Flash: Micron 3D TLC NAND\nGrosor: 0.276 in (con adaptador de 0.374 in).",
+      "imageUrl": "https://m.media-amazon.com/images/I/81TmfqEBQwL._AC_SL1280_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "iPhone 11 64GB ",
+      "price": "2199.90",
+      "description": "Un iPhone que buscará de nuevo convertirse en el más interesante para quienes busquen la experiencia de iOS a un precio de partida más asumible con su pantalla de 6,1 pulgadas",
+      "imageUrl": "https://realplaza.vtexassets.com/arquivos/ids/22772395-1200-auto?v=637860103115000000&width=1200&height=auto&aspect=true"
+    },
+    {
+      "id": "4",
+      "name": "Razer Kraken Tournament Edition: THX Spatial Audio - Control de audio completo",
+      "price": "163.42",
+      "description": "Sobre este artículo\nControles de audio completos: enciende el audio espacial THX para una mayor inmersión, controla los niveles de volumen y graves, e incluso configura el equilibrio de juego/chat\nAudio espacial THX: crea una profundidad realista simulando un sonido posicionalmente preciso en una esfera de 360° para una experiencia más natural y realista. *Disponible con Razer Synapse\nEquilibrio de juego/chat: sintoniza entre el juego y el audio de chat para la mezcla perfecta de inmersión y comunicación",
+      "imageUrl": "https://m.media-amazon.com/images/I/61NW7ZillcL._AC_SL1440_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Laptop Gamer Acer Nitro 5",
+      "price": "2899.90",
+      "description": "Laptop Gamer Acer Nitro 5 15.6\" Intel Core i5 11400H 8GB RAM 1TB HDD + 256GB SSD GTX 1650 4GB Video, esto agilizara tus trabajos y en los videojuegos te dará una experiencia única.",
+      "imageUrl": "https://realplaza.vtexassets.com/arquivos/ids/29913647-1200-auto?v=637957478142600000&width=1200&height=auto&aspect=true"
+    }
+  ],
+  "productsRams": [
+    {
+      "id": "1",
+      "name": "Patriot Viper Steel DDR4 16GB (2 x 8GB) Kit de 3000MHz con escudo térmico gris plomizo",
+      "price": "138.12",
+      "description": "Capacidad: kit DDR4 de 16 GB (2 x 8 GB). Lados de color gris plomizo con logotipo de Viper de corte de diamante/parte superior negra\nFrecuencia base: PC4-17000 (2133MHz); perfil de frecuencia probado 1: PC4-24000 (3000 MHz)\nTiempo base: 15-15-15-36; Tiempo probado: 16-18-18-36\nVoltaje probado para perfil 1: 1,35 V\nFunción Overclock: soporte XMP 2.0 para overclocking automático",
+      "imageUrl": "https://m.media-amazon.com/images/I/917jhv56PSL._AC_SX679_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Corsair Vengeance LPX 32GB (2X16GB) DDR4 3200 (PC4-25600)",
+      "price": "236.28",
+      "description": "Sobre este artículo\nLos chips de memoria ordenados a mano garantizan un alto rendimiento con un generoso espacio de overclocking\nVENGEANCE LPX está optimizado para una amplia compatibilidad con las últimas tarjetas madre Intel y AMD DDR4\nUna altura de perfil bajo de solo 1.339 in garantiza que VENGEANCE LPX incluso se ajuste a la mayoría de construcciones de factor de forma pequeño",
+      "imageUrl": "https://m.media-amazon.com/images/I/518T3hrUY4L._AC_SX679_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Patriot Viper Steel RGB DDR4 RAM 16GB (2X8GB) 3200MHz",
+      "price": "174.47",
+      "description": "Capacidad: 16 GB (2 x 8) 3200 MHz Kit\nLaterales negros con logotipo dorado Viper / parte superior de barra de luz\nDisipador de calor de aluminio con elemento de diseño de logotipo de Viper dorado\nSincronización RGB: compatible con la aplicación de placa base ASUS/ASRock/MSI/Gigabyte\nFunción Overclock: soporte XMP 2.0 para overclocking automático.",
+      "imageUrl": "https://m.media-amazon.com/images/I/919v9l2135L._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 3200 (PC4-25600)",
+      "price": "290.81",
+      "description": "Sobre este artículo\nIluminación RGB multizona dinámica: 10 LEDs RGB ultra brillantes por módulo.\nToma el control del software CORSAIR iCUE y sincroniza la iluminación con otros productos CORSAIR RGB, incluidos refrigeradores de CPU, teclados y ventiladores.\nLa PCB de rendimiento personalizado proporciona la más alta calidad de señal para el mayor nivel de rendimiento y estabilidad.",
+      "imageUrl": "https://m.media-amazon.com/images/I/51gCXtjJKhL._AC_SX679_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Patriot Viper Elite II DDR4 32 GB (2 x 16 GB) 3200 MHz Kit",
+      "price": "218.10",
+      "description": "Sobre este artículo\nCapacidad: 32 GB (2 x 16 GB) 3200 MHz Kit\nFunción Overclock: soporte XMP 2.0 para overclocking automático\nGarantía: garantía limitada de por vida.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61n-vnPKoIS._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Corsair Vengeance RGB Pro SL 32GB (2x16GB) DDR4 3600 (PC4-28800) C18 1.35V.",
+      "price": "290.81",
+      "description": "Sobre este artículo\nIlumina tu sistema con iluminación viva y animada de diez LED RGB direccionables individualmente, ultra brillantes por módulo.\nElige entre docenas de perfiles de iluminación preestablecidos o crea tu propio software CORSAIR iCUE.\nSolo 1.732 pulgadas de alto para una amplia compatibilidad con enfriadores de aire como el Corsair A500.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61ks5I-TN1L._AC_SX679_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Rucial - Memoria de 16GB SODIMM de 260 pines DDR4 3200 MT/s (PC4-25600)",
+      "price": "109.03",
+      "description": "Sobre este artículo\nOptimizado para procesadores y plataformas de próxima generación.\nAumenta las velocidades hasta 3200 MT/s y se espera que estén disponibles tasas de datos más rápidas a medida que la tecnología DDR4 madure.\nAumenta el ancho de banda hasta un 30%.\nReduce el consumo de energía hasta en un 40% y amplía la vida de la batería.\nVelocidades de acceso de ráfaga más rápidas para mejorar el rendimiento secuencial de los datos.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71LX2Lz9yOL._AC_SX679_PIbundle-2,TopRight,0,0_SH20_.jpg"
+    }
+  ],
+  "productsHeadset": [
+    {
+      "id": "1",
+      "name": "Logitech - Auriculares inalámbricos G733 Lightspeed para juegos, con diadema de suspensión, Lightsync RGB",
+      "price": "414.06",
+      "description": "Sobre este artículo\nLibertad total con alcance inalámbrico de hasta 65.6 pies y transmisión de audio inalámbrica Lightspeed. Sigue jugando. La batería dura hasta 29 horas. Juega en estéreo en PlayStation(R) 4. Nota: Si el tamaño de las almohadillas de los auriculares no coincide con el tamaño de tus canales auditivos o si los auriculares no se ajustan bien a tus oídos, es posible que no obtengas las calidades de sonido o el rendimiento de llamada correctos. Cambia las puntas de los auriculares por otras que se ajusten mejor a tu oído.",
+      "imageUrl": "https://m.media-amazon.com/images/I/71xNjrzG69L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Logitech G 435 LIGHTSPEED",
+      "price": "213.77",
+      "description": "Sobre este artículo\nComodidad total: los auriculares de tela transpirable mantienen tus orejas frescas durante largas sesiones de juego, y el cómodo acolchado de espuma viscoelástica ayuda a absorber las ondas de sonido para mejorar el sonido general\nVersátil: Logitech G435 es el primer auricular con conectividad Bluetooth inalámbrica LIGHTSPEED y de baja latencia, proporcionando más libertad de juego en PC, smartphones, PlayStation y dispositivos de juego Nintendo Switch.",
+      "imageUrl": "https://m.media-amazon.com/images/I/81WfRjLX93L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Razer Kraken Ultimate RGB USB Headset ",
+      "price": "207.23",
+      "description": "Sobre este artículo\nEl fabricante #1 de periféricos para juegos más vendido en los Estados Unidos: Source - The NPD Group, Inc. U.S. U.S. Servicio de seguimiento al por menor, teclados, ratones, auriculares para PC/micrófono para PC, diseño de juegos, basado en ventas en dólares, enero de 2017 a diciembre de 2019\nMáxima personalización e inmersión en juegos con Razer Chroma: ofrece una integración completa y sin esfuerzo con títulos de juegos populares y sincronizaciones con hardware Razer, Philips Hue y equipo de más de 30 socios; soporta 16.8 millones de colores",
+      "imageUrl": "https://m.media-amazon.com/images/I/71Wuv0p6UfL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Razer Kraken Tournament Edition: THX Spatial Audio - Control de audio completo",
+      "price": "163.42",
+      "description": "Sobre este artículo\nControles de audio completos: enciende el audio espacial THX para una mayor inmersión, controla los niveles de volumen y graves, e incluso configura el equilibrio de juego/chat\nAudio espacial THX: crea una profundidad realista simulando un sonido posicionalmente preciso en una esfera de 360° para una experiencia más natural y realista. *Disponible con Razer Synapse\nEquilibrio de juego/chat: sintoniza entre el juego y el audio de chat para la mezcla perfecta de inmersión y comunicación",
+      "imageUrl": "https://m.media-amazon.com/images/I/61NW7ZillcL._AC_SL1440_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Black Shark Auriculares inalámbricos para juegos de 2.4 GHz para PC PS4 PS5",
+      "price": "145.39",
+      "description": "Sobre este artículo\nFormas de conexión 3 en 1 y compatibilidad multiplataforma: los auriculares inalámbricos para juegos Black Shark Goblin X4 están equipados con 3 tipos de conexión. La conexión inalámbrica de 2.4 GHz es compatible con PC, PS4, PS5 y portátiles. La conexión Bluetooth 5.2 es compatible con teléfonos móviles, tabletas y otros dispositivos con función de audio Bluetooth. Conexión con cable al controlador Xbox One y otros dispositivos con un conector de audio + micrófono de 0.138 in. Auriculares para juegos verdaderamente todo en uno.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61dTU2G4eoL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Corsair Void RGB Elite Auriculares prémium para juegos con sonido envolvente 7.1",
+      "price": "352.62",
+      "description": "Sobre este artículo\nControl de ruido: cancelación de ruido. Tipo de ajuste de los auriculares: en la oreja\nEscucha todo, desde el paso más ligero hasta la mayoría. Explosión de trueno gracias a los controladores de audio de neodimio de alta densidad de 1.969 in ajustados a medida con un rango de frecuencia ampliado de 20 Hz a 30 000 Hz\nConstruido para una comodidad duradera a través de largas sesiones de juego con tela de malla de microfibra transpirable y almohadillas de espuma viscoelástica de felpa",
+      "imageUrl": "https://m.media-amazon.com/images/I/61oGokyedML._AC_SX466_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Corsair HS70 Pro",
+      "price": "348.98",
+      "description": "Sobre este artículo\nAlcance inalámbrico de auriculares de hasta 40 pies. Tipo de ajuste: en la oreja. Sensibilidad de auriculares 111 dB (más/menos 3 dB)\nLas almohadillas ajustables equipadas con espuma viscoelástica de felpa proporcionan una comodidad excepcional para horas de juego.\nLos controladores de audio de neodimio de 1.969 in de alta calidad ofrecen una excelente calidad de sonido con el rango para escuchar todo lo que necesitas en el campo de batalla.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61XjjJovijL._AC_SL1500_.jpg"
+    }
+  ],
+  "productsSolidDisk": [
+    {
+      "id": "1",
+      "name": "Western Digital Unidad interna de estado sólido SSD WD SN570 NVMe azul de 1 TB - Gen3 x4 PCIe 8Gb/s, M.2 2280, hasta 3,500 MB/s",
+      "price": "181.74",
+      "description": "Sobre este artículo\nRendimiento de lectura secuencial: 3300 MB/s, rendimiento de escritura secuencial: 1200 MB/s. Plataforma de computadora: PC\nCaracterísticas de fiabilidad notables para ayudar a proteger tu contenido\nFactor de forma delgado M.2 2280, compatible con PCIe\nAhorra espacio con un SSD NVMe M.2 2280 PCIe Gen3 x4 de una sola cara\n¹Como se utiliza para capacidad de almacenamiento, 1 GB = 1.000.000 bytes y 1 TB = 1.000.000.000.000 bytes. La capacidad real del usuario puede ser menor dependiendo del entorno operativo",
+      "imageUrl": "https://m.media-amazon.com/images/I/81BrPx3HCfL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Western Digital SSD interna de estado sólido SATA SA510 SATA de 4 TB WD Blue - SATA III 6 Gb/s, 2.5",
+      "price": "836.15",
+      "description": "Sobre este artículo\nActualiza tu creatividad con un impulso de rendimiento que ofrece velocidades de lectura de hasta 560 MB/(2) (500 GB (1) - 4 TB (1) modelos).\nDale a tu PC una nueva vida con capacidades de hasta 4 TB (1) y alta resistencia, además de un bajo consumo de energía para más vida útil de la laptop entre cargas y vibraciones reducidas en comparación con los HDD. Trabaja con confianza ya que el panel SSD digital occidental descargable (3).",
+      "imageUrl": "https://m.media-amazon.com/images/I/71HpqY5AJLL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "3",
+      "name": "WD_BLACK Unidad interna de estado sólido SSD para juegos SN770 NVMe de 2 TB - Gen4 PCIe",
+      "price": "399.88",
+      "description": "Sobre este artículo\nEntra en el juego rápidamente mientras pasas los tiempos de carga con velocidades asombrosas de hasta 5,150 MB/s(1) (modelos de 1 TB y 2 TB)..velocidad de transferencia de fecha: 5150.0 megabytes_por_second\nObtén mucho espacio para tus últimos juegos, actualizaciones futuras y contenido descargable con capacidades de hasta 2 TB (2).\nAdmite futuros juegos desarrollados para la tecnología DirectStorage de Microsoft para tiempos de carga más rápidos.",
+      "imageUrl": "https://m.media-amazon.com/images/I/61H2TExrXUL._AC_SL1100_.jpg"
+    },
+    {
+      "id": "4",
+      "name": "fanxiang S500 Pro 1TB NVMe SSD M.2 PCIe Gen3x4 2280, caché SLC 3D NAND TLC, hasta 3500 MB/s",
+      "price": "145.39",
+      "description": "Sobre este artículo\nExcelente rendimiento: el SSD Fanxiang S500 Pro M.2 añade calcomanías de disipación de calor de grafeno para proporcionar un control eficaz de disipación de calor para SSD interna, mejora su rendimiento y vida útil, hasta 640 TBW (TeraBytes escritos)\nTransmisión de alta velocidad: acelera el rendimiento de lectura y escritura de discos duros de estado sólido a través de la tecnología inteligente de caché SLC, hasta 3500/3000 MB/s, mejorando en gran medida la velocidad de arranque, apertura de programas, carga de juegos, ahorro de archivos y transmisión, etc",
+      "imageUrl": "https://m.media-amazon.com/images/I/81N9hd2WF7L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Crucial MX500",
+      "price": "127.21",
+      "description": "Sobre este artículo\nCapacidad: 500 GB.\nFactor de forma: 2,5 pulgadas.\nInterfaz: SATA3.\nNAND Flash: Micron 3D TLC NAND\nGrosor: 0.276 in (con adaptador de 0.374 in).",
+      "imageUrl": "https://m.media-amazon.com/images/I/81TmfqEBQwL._AC_SL1280_.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Fanxiang S101 1TB - Unidad interna de estado sólido SSD SATA III de 6 Gb/s de 2,5 pulgadas",
+      "price": "127.21",
+      "description": "Sobre este artículo\n【Computadora de aceleración】: Reemplazando los discos duros mecánicos tradicionales, actualiza tu portátil o computador de escritorio y reduce el tiempo que tarda en arrancar el sistema operativo y abrir aplicaciones\nRespuesta rápida: Fanxiang El SSD S101 adopta una interfaz SATA III de 6 Gb/s, la velocidad máxima de lectura de hasta 550 Mb/s, y la velocidad máxima de escritura de hasta 500 Mb/s",
+      "imageUrl": "https://m.media-amazon.com/images/I/61v6iv3k14L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Samsung 870 QVO-Series - Unidad de estado sólido SSD de 2.5 pulgadas con conexión SATA III",
+      "price": "363.52",
+      "description": "Sobre este artículo\nVe a lo grande, haz más: el QVO 870 es el SSD QLC de segunda generación de Samsung con hasta 8 TB de capacidad de almacenamiento. Compatible con interfaces SATA de 3 Gbps y 1,5 Gbps\nMejorado de todos los sentidos: con un límite de interfaz SATA ampliado de velocidades secuenciales de 560/530 MB/s, el QVO 870 mejora la velocidad de acceso aleatorio y el rendimiento sostenido",
+      "imageUrl": "https://m.media-amazon.com/images/I/712OiYAofXL._AC_SL1500_.jpg"
+    }
+  ],
+  "trips": [
+    { "id": "1",
+      "origin": "New York",
+      "destination": "Los Angeles",
+      "date": "2023-01-01"
+    },
+    { "id": "2",
+      "origin": "San Francisco",
+      "destination": "Seattle",
+      "date": "2023-01-15"
+    },
+    { "id": "3",
+      "origin": "Chicago",
+      "destination": "Miami",
+      "date": "2023-02-01"
+    },
+    { "id": "4",
+      "origin": "Boston",
+      "destination": "Washington D.C.",
+      "date": "2023-02-15"
+    },
+    { "id": "5",
+      "origin": "Lima",
+      "destination": "Miami",
+      "date": "2023-07-07"
+    }
+  ]
+}
